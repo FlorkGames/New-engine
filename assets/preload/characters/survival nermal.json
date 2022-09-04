@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				120,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "full instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-88
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left instance"
+		},
+		{
+			"offsets": [
+				44,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/survival nermal",
+	"position": [
+		330,
+		230
+	],
+	"healthicon": "nermalpreylol",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		153,
+		153
+	],
+	"camera_position": [
+		10,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

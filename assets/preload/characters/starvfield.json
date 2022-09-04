@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down1 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left2 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right1 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up1 instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starfield - Copy",
+	"position": [
+		460,
+		-250
+	],
+	"healthicon": "starfieldlol",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
